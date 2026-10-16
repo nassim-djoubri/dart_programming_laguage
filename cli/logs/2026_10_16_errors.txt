@@ -1,0 +1,25 @@
+[2026-10-16 05:16:02.626293 - errors] WARNING: Invalid character 
+[2026-10-16 05:16:02.629206 - errors] WARNING: en.wikipedia.org/api/rest_v1/page/summary/Dart 
+[2026-10-16 05:16:02.629400 - errors] INFO: search: Search for Wikipedia articles. 
+[2026-10-16 05:17:08.446101 - errors] WARNING: Invalid character 
+[2026-10-16 05:17:08.448976 - errors] WARNING: en.wikipedia.org/api/rest_v1/page/summary/Dart 
+[2026-10-16 05:17:08.449162 - errors] INFO: search: Search for Wikipedia articles. 
+[2026-10-16 05:17:19.253817 - errors] WARNING: Invalid character 
+[2026-10-16 05:17:19.255740 - errors] WARNING: en.wikipedia.org/api/rest_v1/page/summary/Dart (programming language) 
+[2026-10-16 05:17:19.256179 - errors] INFO: search: Search for Wikipedia articles. 
+[2026-10-16 05:19:22.653453 - errors] WARNING: Invalid character 
+[2026-10-16 05:19:22.656953 - errors] WARNING: en.wikipedia.org/api/rest_v1/page/summary/Dart (programming language) 
+[2026-10-16 05:19:22.657128 - errors] INFO: search: Search for Wikipedia articles. 
+[2026-10-16 05:19:27.025555 - errors] WARNING: Invalid character 
+[2026-10-16 05:19:27.028122 - errors] WARNING: en.wikipedia.org/api/rest_v1/page/summary/Dart (programming language) 
+[2026-10-16 05:19:27.028299 - errors] INFO: search: Search for Wikipedia articles. 
+[2026-10-16 05:20:40.006087 - errors] WARNING: Invalid character 
+[2026-10-16 05:20:40.008129 - errors] WARNING: en.wikipedia.org/api/rest_v1/page/summary/Dart (programming language) 
+[2026-10-16 05:20:40.008253 - errors] INFO: search: Search for Wikipedia articles. 
+[2026-10-16 05:21:43.275408 - errors] WARNING: Invalid character 
+[2026-10-16 05:21:43.277610 - errors] WARNING: en.wikipedia.org/api/rest_v1/page/summary/Dart (programming language) 
+[2026-10-16 05:21:43.277927 - errors] INFO: search: Search for Wikipedia articles. 
+[2026-10-16 05:23:15.572959 - errors] WARNING: Invalid character 
+[2026-10-16 05:23:15.574955 - errors] WARNING: en.wikipedia.org/api/rest_v1/page/summary/Dart (programming language) 
+[2026-10-16 05:23:15.575069 - errors] INFO: search: Search for Wikipedia articles. 
+[2026-10-16 05:25:40.045737 - errors] WARNING: ArgumentException: Please include a search term 

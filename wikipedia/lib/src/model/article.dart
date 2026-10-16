@@ -4,7 +4,7 @@ class Article {
     final String title;
     final String extract;
 
-    static List<Article> listFormJson(Map<String, Object?> json) {
+    static List<Article> listFromJson(Map<String, Object?> json) {
         final List<Article> articles = <Article>[];
 
         if(json case {'query': {'pages': final Map<String, Object?> pages }}) {
